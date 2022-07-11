@@ -33,3 +33,7 @@ FTW Scheduler Bot's prefix is ``f!``, add it to the start of any of this bot's c
 | remove |``{message-id}`` | Removes the message based on its id | ``f!remove 1`` | 
 | ping | None | Pong | ``f!ping`` |
 
+Developer
+---
+Eric Fang
+
